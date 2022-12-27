@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StegoApplication</string>
+    <string name="decode_button_text">DECODE</string>
+    <string name="encode_button_text">ENCODE</string>
+    <string name="encoded_text">Şifrelemek istediğiniz mesajı giriniz.</string>
+    <string name="key_text">Şifreleme anahtarı giriniz.</string>
+    <string name="switch_decode">Şifreli mesajı çöz.</string>
+    <string name="switch_encode">Mesaj şifrele ve fotoğrafa göm.</string>
+    <string name="disabled_text">Bu modda  kullanılamaz.</string>
+
+</resources>
